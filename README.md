@@ -1,6 +1,6 @@
-# CSS only Rubik's Cubes Hover Effects
+# CSS only Rubik's Cube Hover Effects
 
->CSS only Rubik's Cubes Hover Effects.
+>CSS only Rubik's Cube Hover Effects.
 
 <img src="images/giphy.gif" width="500"/>
 
